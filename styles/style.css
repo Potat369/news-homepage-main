@@ -1,0 +1,16 @@
+.nav-link {
+    font-family: Inter;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.m-075 {
+    margin: 0.75rem;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url("../assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
